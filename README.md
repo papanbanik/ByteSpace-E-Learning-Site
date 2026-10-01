@@ -3,13 +3,13 @@ ByteSpace is a modern e-learning platform designed to make online education simp
 
 # Follow these steps to run the ByteSpace E-Learning Site locally.
 
-1. Clone the Repository
-git clone https://github.com/your-username/ByteSpace-E-Learning-Site.git
+1. Clone the Repository.
+git clone https://github.com/papanbanik/ByteSpace-E-Learning-Site.git
 
-2. Navigate to the Project Directory
+2. Navigate to the Project Directory.
 cd ByteSpace-E-Learning-Site
 
-3. Install Dependencies
+3. Install Dependencies.
 If the project uses Node.js, install the required packages:
 
 npm install
